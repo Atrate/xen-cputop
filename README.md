@@ -26,9 +26,17 @@ Options:
 
 ## Screenshots
 
+<img width="114" height="289" alt="image" src="https://github.com/user-attachments/assets/d2e295a3-7f60-4d2d-a6fa-7f27f46c7b2b" />
+
+<img width="450" height="86" alt="image" src="https://github.com/user-attachments/assets/acafea70-58b8-4cbe-b4f8-7ab6f1258ffb" />
+
 ## Other Utilities
 
 See [the qubes-utils repo](https://github.com/Atrate/qubes-utils) for links to other utilities I've written for Qubes.
+
+## Credits
+
+Inspired by `xencpumon` by @renehoj: https://github.com/renehoj/xencpumon
 
 ## License
 This project is licensed under the [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html).
