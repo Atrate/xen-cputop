@@ -34,6 +34,8 @@ Options:
 
 See [the qubes-utils repo](https://github.com/Atrate/qubes-utils) for links to other utilities I've written for Qubes.
 
+Adapted from: https://github.com/Atrate/xentop-color .
+
 ## Credits
 
 Inspired by `xencpumon` by @renehoj: https://github.com/renehoj/xencpumon
